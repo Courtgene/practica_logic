@@ -1,0 +1,19 @@
+transporte= "Si"
+
+años >= 20 años > 19
+
+
+3) al calcular una compra en un supermercado ... ¿tengo suficiente dinero para cancelar el monto calculado en caja ? 
+dinero > 0 mayor al monto a cancelar 
+
+4) ¿comenzara una seccion de un curso en CADI? (para comenzar una seccion debe haber al menos 8 alumnos incritos) 
+inscritos >= 8 
+
+5) ¿Me van a dar un descuento en una tienda? (Se otorga un descuento si el monto a pagar es mayor a 10000) 
+monto >= 10000
+
+6) ¿Vamos al juego de beisbol ? (si quedan al menos 4 entradas) 
+boletos >=4
+
+7) ¿Puedo llevarme todos los productos que meti en mi carrito ? (no se puede llevar mas de 12 unidades de un producto) 
+productos < 12 unidades  
